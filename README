@@ -1,0 +1,3 @@
+Executar como root
+Groovy deve estar no path
+Command: 'groovy benchmark.groovy [repeticoes] [diretorio_destino] [device_name]'
